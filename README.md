@@ -116,6 +116,7 @@ This command will make the program use the first platform detected.
 Publication:
 
 EVR: Reconstruction of Bacterial Chromosome 3D Structure Models Using Error-Vector Resultant Algorithm
+(https://doi.org/10.1186/s12864-019-6096-0)[https://doi.org/10.1186/s12864-019-6096-0]
 
 Kang-Jian Hua and Bin-Guang Ma*
 
